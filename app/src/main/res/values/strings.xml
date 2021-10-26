@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyListDemo</string>
+    <string name="read_more_hint">Please click read more button to load data.</string>
+</resources>
